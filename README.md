@@ -1,6 +1,8 @@
 # RiverCiliwung
 ![ciliwungcatchment](figs/TBD.png)
 
+Contributors: Nico Septianus, Onno Bokhove
+
 ## TBD: FEV analysis using VBA/Excel for 2020 flood of River Ciliwung (Djakarta, Indonesia)
 
 Work published as: 
