@@ -1,5 +1,5 @@
 # RiverCiliwung
-!(figs/ciliwung map.png)
+![Ciliwung map](figs/ciliwung map.png)
 
 Contributors: Nico Septianus, Onno Bokhove
 
