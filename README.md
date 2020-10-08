@@ -29,7 +29,7 @@ The Excel/VBA script completes the FEV analysis and calls four plotting routines
 
 in total, N figures are produced, including an adaptation of TBD:
 
-![](figs/ciliwungfinalplot.png)
+![](figs/Ciliwungfinalplot.png)
 
 *Caption: Quadrant plot for early 2020 new year flood of the River Ciliwung at Depok Floodgate.
 The plot shows 3-panel graph between relationship of time vs height (original data), height
