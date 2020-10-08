@@ -27,7 +27,7 @@ The Excel/VBA script completes the FEV analysis and calls four plotting routines
  * ```ratingcurve()``` 
  * ```FEV()``` 
 
-in total, N figures are produced, including an adaptation of TBD:
+in total, 4 figures are produced, including an adaptation of Three-panel Graph:
 
 ![](figs/Ciliwungfinalplot.png)
 
